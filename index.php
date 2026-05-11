@@ -1,3 +1,3 @@
 <?php
-echo "Proyecto PHP para la práctica de Git";
+echo "segundo commit archivo modificado ";
 ?>
